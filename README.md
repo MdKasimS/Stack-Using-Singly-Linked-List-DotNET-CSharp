@@ -1,6 +1,6 @@
 # Stack-Using-Singly-Linked-List-DotNET-CSharp
 
-This is a Stack data structure using Singly Linked List. Logic behind creation of Nodes and forming SLL is same as it was used in my earlier published repo https://github.com/MdKasimS/Singly-Linked-List-Using-DotNET-CSharp.
+This is a Stack data structure using Singly Linked List. Logic behind creation of Nodes and forming SLL is same as it was used in my earlier published repo [here using C#](https://github.com/MdKasimS/Singly-Linked-List-Using-DotNET-CSharp).
 This is means methods of stack like
 1. Push
 2. Pop
