@@ -15,3 +15,9 @@ This is a menu driven simple console Dotnet application that fills and empties s
 What it is and how it is? A DSA named namespace is created which have SLLNode and StackSLL public classes. This is to maintain all DSA related classes used in several data structure implementations.
 
 How to run this project? This repo can be cloned and run using "dotnet run" command on CMD.
+
+#happyCODING
+
+By:-
+- Mahamadkasim Sache
+- https://www.linkedin.com/in/mahamadkasim-sache
