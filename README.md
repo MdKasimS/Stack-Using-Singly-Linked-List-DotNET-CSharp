@@ -20,4 +20,4 @@ How to run this project? This repo can be cloned and run using "dotnet run" comm
 
 By:-
 - Mahamadkasim Sache
-- [LinkedIn] (https://www.linkedin.com/in/mahamadkasim-sache)
+- [LinkedIn](https://www.linkedin.com/in/mahamadkasim-sache)
