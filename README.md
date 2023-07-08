@@ -8,7 +8,7 @@ This is means methods of stack like
 4. Print
 5. Is Empty
 are newly added.
-The stack implementation using purely "SinglyLinkedList.cs" is here : [Coming Soon].
+The stack implemented using purely "SinglyLinkedList.cs" is here : [Coming Soon].
 
 This is a menu driven simple console Dotnet application that fills and empties stack data structure.
 
