@@ -90,7 +90,7 @@ namespace DSA
         {
             return Count;
         }
-        public string ShowTop()
+        public string Peek()
         {
             if (Count > 0)
                 return Top.Data.ToString();
